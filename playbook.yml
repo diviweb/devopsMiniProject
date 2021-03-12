@@ -5,3 +5,4 @@
     - name: Pull image of working project from dockerhub
       docker_image:
         name: divi2719/mini_project
+        source: pull
